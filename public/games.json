@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Dice Miner",
+        "image": "diceminer.png",
+        "played": true,
+        "minplayers": 1,
+        "maxplayers": 4,
+        "gametime": 30,
+        "bgg": "https://boardgamegeek.com/boardgame/310632/dice-miner",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Dice"}
+        ],
+        "guidevideos": [
+            {
+                "link": "https://www.youtube.com/watch?v=_RCt6lbbjoM",
+                "title": "Dice miner: Overview and how to play"
+            },
+            { 
+                "link": "https://www.youtube.com/watch?v=CouxIvYzh-s",
+                "title": "Dice Miner - GameNight! Se9 Ep19 - How to Play and Playthrough"
+            }
+        ]
+    },
+    {
+        "name": "Munchkin",
+        "image": "munchkin.png",
+        "played": true,
+        "minplayers": 1,
+        "maxplayers": 5,
+        "gametime": 60,
+        "ourgametime": 120,
+        "bgg": "https://boardgamegeek.com/boardgame/1927/munchkin",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Card Game"},
+            { "name": "Take That"}
+        ],
+        "guidevideos": [
+            { 
+                "link": "https://www.youtube.com/watch?v=RFJwq-xURgY",
+                "title": "Munchkin - How To Play"
+            },
+            { 
+                "link": "https://www.youtube.com/watch?v=V6oMBSiL7Zs",
+                "title": "Munchkin: Felicia Day, Steve Jackson and Sandeep Parikh join Wil Wheaton on TableTop, Episode 5"
+            }
+        ],
+        "expansions": [
+            { "name": "Deathly Pail" },
+            { "name": "Witches" }
+        ]
+    },
+    {
+        "name": "Dale of Merchants",
+        "image": "daleofmerchants.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 30,
+        "ourgametime": 60,
+        "bgg": "https://boardgamegeek.com/boardgame/176165/dale-merchants",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Card Game"}
+        ],
+        "guidevideos": [
+            {
+                "link": "https://www.youtube.com/watch?v=w6dnC7pNOYo",
+                "title": "How to play Dale of Merchants"
+            },
+            { 
+                "link": "https://www.youtube.com/watch?v=eacze4jp16w",
+                "title": "How to play Dale of Merchants board game"
+            }
+        ]
+    },
+    {
+        "name": "Dog Park",
+        "image": "dogpark.png",
+        "played": true,
+        "minplayers": 1,
+        "maxplayers": 4,
+        "gametime": 60,
+        "bgg": "https://boardgamegeek.com/boardgame/331401/dog-park",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Card Game"}
+        ],
+        "guidevideos": [
+            {
+                "link": "https://www.youtube.com/watch?v=cXTn1lxshg8",
+                "title": "Dog Park - How to Play Board Game"
+            },
+            { 
+                "link": "https://www.youtube.com/watch?v=r-fy3RD4Xbk",
+                "title": "How to play the board game Dog Park"
+            }
+        ]
+    },
+    {
+        "name": "Marvel Dice Throne",
+        "image": "marveldicethrone.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 60,
+        "bgg": "https://boardgamegeek.com/boardgame/348406/marvel-dice-throne",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Card Game"},
+            { "name": "Take That"}
+        ],
+        "guidevideos": [
+            { 
+                "link": "https://www.youtube.com/watch?v=790Cxjr72JQ",
+                "title": "Marvel: Dice Throne - How To Play"
+            },
+            { 
+                "link": "https://www.youtube.com/watch?v=2ukOoa10pYI",
+                "title": "Marvel Dice Throne - GameNight! Se10 Ep19 - How to Play and Playthrough"
+            }
+        ]
+    },
+    {
+        "name": "Pandemic: Reign of Cthulhu",
+        "image": "reignofcthulhu.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 40,
+        "bgg": "https://boardgamegeek.com/boardgame/192153/pandemic-reign-cthulhu",
+        "tags": [
+            { "name": "Co-op"},
+            { "name": "Set Collection"}
+        ],
+        "guidevideos": [
+            {
+                "link": "https://www.youtube.com/watch?v=ptPJvJdPCmI",
+                "title": "How to Play Pandemic: Reign of Cthulhu | Roll For Crit"
+            },
+            { 
+                "link": "https://www.youtube.com/watch?v=ZKIa4Q_crdM",
+                "title": "Pandemic: Reign of Cthulhu - GameNight! Se4 Ep26 - How to Play and Playthrough"
+            }
+        ]
+    },
+    {
+        "name": "Marvel United",
+        "image": "marvelunited.png",
+        "played": true,
+        "minplayers": 1,
+        "maxplayers": 4,
+        "gametime": 40,
+        "bgg": "https://boardgamegeek.com/boardgame/298047/marvel-united",
+        "tags": [
+            { "name": "Co-op" }
+        ],
+        "guidevideos": [
+            {
+                "link": "https://www.youtube.com/watch?v=k3RtuB6yB_g",
+                "title": "Marvel United: How to Play"
+            },
+            { 
+                "link": "https://www.youtube.com/watch?v=soUrvGBmyzk",
+                "title": "Marvel United - GameNight! Se9 Ep6 - How to Play and Playthrough"
+            }
+        ]
+    },
+    {
+        "name": "Harry Potter: Hogwarts Battle",
+        "image": "hogwartsbattle.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 60,
+        "bgg": "https://boardgamegeek.com/boardgame/199042/harry-potter-hogwarts-battle",
+        "tags": [
+            { "name": "Co-op" },
+            { "name": "Card Game" },
+            { "name": "Deck Building" },
+            { "name": "Campaign" }
+        ],
+        "guidevideos": [
+            {
+                "link": "https://www.youtube.com/watch?v=5YJkMLjiU_E",
+                "title": "How to Play Harry Potter Hogwarts Battle in 4 Minutes - The Rules Girl"
+            },
+            { 
+                "link": "https://www.youtube.com/watch?v=bVXoYxwUFa8",
+                "title": "Harry Potter: Hogwarts Battle - GameNight! Se5 Ep1 - How to Play and Playthrough"
+            }
+        ]
+    },
+    {
+        "name": "Regicide",
+        "image": "regicide.png",
+        "played": true,
+        "minplayers": 1,
+        "maxplayers": 4,
+        "gametime": 30,
+        "bgg": "https://boardgamegeek.com/boardgame/307002/regicide",
+        "tags": [
+            { "name": "Co-op" },
+            { "name": "Card Game" }
+        ],
+        "guidevideos": [
+            {
+                "link": "https://www.youtube.com/watch?v=7XoRlKzLobk",
+                "title": "Regicide Learn to Play"
+            },
+            { 
+                "link": "https://www.youtube.com/watch?v=iVJakZUcw5Y",
+                "title": "Regicide Companion App Demo"
+            }
+        ]
+    }
+]
