@@ -13,8 +13,8 @@ import GameList from './views/GameList.vue'
       </v-list>
     </v-navigation-drawer>
 
-    <v-main class="d-flex align-center justify-center" style="min-height: 300px;">
+    <v-main class="d-flex align-center justify-center" style="min-height: 300px; max-width: 1300px;">
       <GameList/>
     </v-main>
-  </v-layout>   
+  </v-layout>
 </template>

@@ -13,19 +13,15 @@
             });
     });
 
-    
+
 </script>
 
 <template>
-    <v-row justify="space-around" wrap class="five-cols">
-        <v-col v-for="game in games">
-            <GameCard :game=game> </GameCard>   
-        </v-col>
-    </v-row>
+    <v-container>
+        <v-row align="start" justify="center">
+            <v-col v-for="game in games" cols="auto">
+                <GameCard :game=game> </GameCard>
+            </v-col>
+        </v-row>
+    </v-container>
 </template>
-<style>
-.five-cols {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-}
-</style>

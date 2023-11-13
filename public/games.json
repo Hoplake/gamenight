@@ -16,7 +16,7 @@
                 "link": "https://www.youtube.com/watch?v=_RCt6lbbjoM",
                 "title": "Dice miner: Overview and how to play"
             },
-            { 
+            {
                 "link": "https://www.youtube.com/watch?v=CouxIvYzh-s",
                 "title": "Dice Miner - GameNight! Se9 Ep19 - How to Play and Playthrough"
             }
@@ -37,11 +37,11 @@
             { "name": "Take That"}
         ],
         "guidevideos": [
-            { 
+            {
                 "link": "https://www.youtube.com/watch?v=RFJwq-xURgY",
                 "title": "Munchkin - How To Play"
             },
-            { 
+            {
                 "link": "https://www.youtube.com/watch?v=V6oMBSiL7Zs",
                 "title": "Munchkin: Felicia Day, Steve Jackson and Sandeep Parikh join Wil Wheaton on TableTop, Episode 5"
             }
@@ -69,7 +69,7 @@
                 "link": "https://www.youtube.com/watch?v=w6dnC7pNOYo",
                 "title": "How to play Dale of Merchants"
             },
-            { 
+            {
                 "link": "https://www.youtube.com/watch?v=eacze4jp16w",
                 "title": "How to play Dale of Merchants board game"
             }
@@ -92,7 +92,7 @@
                 "link": "https://www.youtube.com/watch?v=cXTn1lxshg8",
                 "title": "Dog Park - How to Play Board Game"
             },
-            { 
+            {
                 "link": "https://www.youtube.com/watch?v=r-fy3RD4Xbk",
                 "title": "How to play the board game Dog Park"
             }
@@ -112,11 +112,11 @@
             { "name": "Take That"}
         ],
         "guidevideos": [
-            { 
+            {
                 "link": "https://www.youtube.com/watch?v=790Cxjr72JQ",
                 "title": "Marvel: Dice Throne - How To Play"
             },
-            { 
+            {
                 "link": "https://www.youtube.com/watch?v=2ukOoa10pYI",
                 "title": "Marvel Dice Throne - GameNight! Se10 Ep19 - How to Play and Playthrough"
             }
@@ -139,7 +139,7 @@
                 "link": "https://www.youtube.com/watch?v=ptPJvJdPCmI",
                 "title": "How to Play Pandemic: Reign of Cthulhu | Roll For Crit"
             },
-            { 
+            {
                 "link": "https://www.youtube.com/watch?v=ZKIa4Q_crdM",
                 "title": "Pandemic: Reign of Cthulhu - GameNight! Se4 Ep26 - How to Play and Playthrough"
             }
@@ -161,7 +161,7 @@
                 "link": "https://www.youtube.com/watch?v=k3RtuB6yB_g",
                 "title": "Marvel United: How to Play"
             },
-            { 
+            {
                 "link": "https://www.youtube.com/watch?v=soUrvGBmyzk",
                 "title": "Marvel United - GameNight! Se9 Ep6 - How to Play and Playthrough"
             }
@@ -186,7 +186,7 @@
                 "link": "https://www.youtube.com/watch?v=5YJkMLjiU_E",
                 "title": "How to Play Harry Potter Hogwarts Battle in 4 Minutes - The Rules Girl"
             },
-            { 
+            {
                 "link": "https://www.youtube.com/watch?v=bVXoYxwUFa8",
                 "title": "Harry Potter: Hogwarts Battle - GameNight! Se5 Ep1 - How to Play and Playthrough"
             }
@@ -209,10 +209,134 @@
                 "link": "https://www.youtube.com/watch?v=7XoRlKzLobk",
                 "title": "Regicide Learn to Play"
             },
-            { 
+            {
                 "link": "https://www.youtube.com/watch?v=iVJakZUcw5Y",
                 "title": "Regicide Companion App Demo"
             }
+        ]
+    },
+    {
+        "name": "PUSH",
+        "image": "regicide.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 6,
+        "gametime": 25,
+        "bgg": "https://boardgamegeek.com/boardgame/265256/push",
+        "tags": [
+            { "name": "Push Your Luck" },
+            { "name": "Card Game" }
+        ]
+    },
+    {
+        "name": "Love Letter",
+        "image": "regicide.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 20,
+        "bgg": "https://boardgamegeek.com/boardgame/129622/love-letter",
+        "tags": [
+            { "name": "Take That" },
+            { "name": "Card Game" },
+            { "name": "Player Elimination"}
+        ]
+    },
+    {
+        "name": "King of New York",
+        "image": "regicide.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 6,
+        "gametime": 40,
+        "bgg": "https://boardgamegeek.com/boardgame/160499/king-new-york",
+        "tags": [
+            { "name": "Dice" },
+            { "name": "Player Elimination" },
+            { "name": "Take That"},
+            { "name": "Push Your Luck"}
+        ]
+    },
+    {
+        "name": "Ghost Stories",
+        "image": "regicide.png",
+        "played": true,
+        "minplayers": 1,
+        "maxplayers": 4,
+        "gametime": 60,
+        "bgg": "https://boardgamegeek.com/boardgame/37046/ghost-stories",
+        "tags": [
+            { "name": "Dice" },
+            { "name": "Co-op" }
+        ]
+    },
+    {
+        "name": "Bohnanza",
+        "image": "regicide.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 7,
+        "gametime": 45,
+        "bgg": "https://boardgamegeek.com/boardgame/11/bohnanza",
+        "tags": [
+            { "name": "Card Game" },
+            { "name": "Set Collection" },
+            { "name": "Trading"}
+        ]
+    },
+    {
+        "name": "Res Arcana",
+        "image": "regicide.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 60,
+        "bgg": "https://boardgamegeek.com/boardgame/262712/res-arcana",
+        "tags": [
+            { "name": "Card Game" },
+            { "name": "Take That"}
+        ]
+    },
+    {
+        "name": "Strike",
+        "image": "regicide.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 5,
+        "gametime": 60,
+        "bgg": "https://boardgamegeek.com/boardgame/123570/strike",
+        "tags": [
+            { "name": "Dice" },
+            { "name": "Push Your Luck"},
+            { "name":"Player Elimination"}
+        ]
+    },
+    {
+        "name": "Star Wars: Jabba's Palace",
+        "subtitle": "A Love Letter Game",
+        "image": "regicide.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 6,
+        "gametime": 20,
+        "bgg": "https://boardgamegeek.com/boardgame/353470/star-wars-jabbas-palace-love-letter-game",
+        "tags": [
+            { "name": "Card Game" },
+            { "name": "Take That"},
+            { "name": "Player Elimination"}
+        ]
+    },
+    {
+        "name": "Smash Up",
+        "image": "regicide.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 45,
+        "bgg": "https://boardgamegeek.com/boardgame/122522/smash",
+        "tags": [
+            { "name": "Card Game" },
+            { "name": "Take That"}
         ]
     }
 ]

@@ -5,32 +5,30 @@
 </script>
 
 <template>
-    <v-card max-width="400px"
+    <v-card width="300px"
         theme="dark">
         <v-img
             class="align-end text-white"
             :src="'/images/' + game.image"
-            height="400px"
+            height="300px"
             width="100%"
             cover>
         </v-img>
         <v-card-item>
             <v-card-title>{{ game.name }}</v-card-title>
+            <v-card-subtitle v-if="game.subtitle != null">{{ game.subtitle }}</v-card-subtitle>
             <v-card-subtitle>{{ game.minplayers }} - {{ game.maxplayers }} Players, {{ game.gametime }} minutes</v-card-subtitle>
         </v-card-item>
-        <v-card-actions>
-            <v-btn color="orange">
-                How to Play
-            </v-btn>
-            <v-btn color="orange">
-                How to Play #2
+        <v-card-actions v-if="game.guidevideos != null">
+            <v-btn color="orange" v-for="(video, index) in game.guidevideos">
+                <a :href="'{{ video.link }}'">How to Play <sup v-if="index > 0">#{{ index + 1 }}</sup></a>
             </v-btn>
         </v-card-actions>
-        <v-divider class="mx-4"></v-divider>
+        <v-divider></v-divider>
         <v-card-text class="text-center">
-            <v-chip variant="tonal" class="ma-2" color="orange" text-color="white" v-for="tag in game.tags">
+            <v-chip variant="tonal" class="ma-1" color="orange" text-color="white" v-for="tag in game.tags">
                 {{ tag.name }}
-            </v-chip>            
+            </v-chip>
         </v-card-text>
     </v-card>
 </template>
