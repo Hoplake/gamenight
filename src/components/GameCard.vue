@@ -1,19 +1,22 @@
 <script setup lang="ts">
     const props = defineProps({
-        game: Object
+        game: {type: Object, required: true}
     })
 </script>
 
 <template>
     <v-card width="300px"
         theme="dark">
-        <v-img
-            class="align-end text-white"
-            :src="'/images/' + game.image"
-            height="300px"
-            width="100%"
-            cover>
-        </v-img>
+        <a :href="game.bgg">
+            <v-img
+                class="align-end text-white"
+                :src="'/images/' + game.image"
+                height="300px"
+                width="100%"
+                cover>
+            </v-img>
+        </a>
+        
         <v-card-item>
             <v-card-title>{{ game.name }}</v-card-title>
             <v-card-subtitle v-if="game.subtitle != null">{{ game.subtitle }}</v-card-subtitle>
@@ -21,7 +24,13 @@
         </v-card-item>
         <v-card-actions v-if="game.guidevideos != null">
             <v-btn color="orange" v-for="(video, index) in game.guidevideos">
-                <a :href="'{{ video.link }}'">How to Play <sup v-if="index > 0">#{{ index + 1 }}</sup></a>
+                <a :href="video.link" target="_blank">How to Play <sup v-if="index > 0">#{{ index + 1 }}</sup></a>
+            </v-btn>
+        </v-card-actions>
+        <v-divider></v-divider>
+        <v-card-actions>
+            <v-btn color="orange">
+                <a :href="game.bgg">BoardGameGeek</a>
             </v-btn>
         </v-card-actions>
         <v-divider></v-divider>

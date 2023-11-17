@@ -217,7 +217,7 @@
     },
     {
         "name": "PUSH",
-        "image": "regicide.png",
+        "image": "push.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 6,
@@ -230,7 +230,7 @@
     },
     {
         "name": "Love Letter",
-        "image": "regicide.png",
+        "image": "loveletter.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 4,
@@ -244,7 +244,7 @@
     },
     {
         "name": "King of New York",
-        "image": "regicide.png",
+        "image": "kingofnewyork.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 6,
@@ -259,7 +259,7 @@
     },
     {
         "name": "Ghost Stories",
-        "image": "regicide.png",
+        "image": "ghoststories.png",
         "played": true,
         "minplayers": 1,
         "maxplayers": 4,
@@ -272,7 +272,7 @@
     },
     {
         "name": "Bohnanza",
-        "image": "regicide.png",
+        "image": "bohnanza.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 7,
@@ -286,7 +286,7 @@
     },
     {
         "name": "Res Arcana",
-        "image": "regicide.png",
+        "image": "resarcana.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 4,
@@ -299,7 +299,7 @@
     },
     {
         "name": "Strike",
-        "image": "regicide.png",
+        "image": "strike.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 5,
@@ -314,7 +314,7 @@
     {
         "name": "Star Wars: Jabba's Palace",
         "subtitle": "A Love Letter Game",
-        "image": "regicide.png",
+        "image": "jabba.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 6,
@@ -328,7 +328,7 @@
     },
     {
         "name": "Smash Up",
-        "image": "regicide.png",
+        "image": "smashup.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 4,
@@ -337,6 +337,48 @@
         "tags": [
             { "name": "Card Game" },
             { "name": "Take That"}
+        ]
+    },
+    {
+        "name": "Deep Sea Adventure",
+        "image": "deepsea.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 6,
+        "gametime": 30,
+        "bgg": "https://boardgamegeek.com/boardgame/169654/deep-sea-adventure",
+        "tags": [
+            { "name": "Dice" },
+            { "name": "Push Your Luck"},
+            { "name": "Filler"}
+        ]
+    },
+    {
+        "name": "Race for the Galaxy",
+        "image": "raceforthegalaxy.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 60,
+        "bgg": "https://boardgamegeek.com/boardgame/28143/race-galaxy",
+        "tags": [
+            { "name": "Card Game" },
+            { "name": "Hand Management"},
+            { "name":"Set Collection"}
+        ]
+    },
+    {
+        "name": "Mind",
+        "image": "mind.png",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 20,
+        "bgg": "https://boardgamegeek.com/boardgame/122522/smash",
+        "tags": [
+            { "name": "Card Game" },
+            { "name": "Co-op"},
+            { "name": "Filler"}
         ]
     }
 ]
