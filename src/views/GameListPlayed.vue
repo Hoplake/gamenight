@@ -8,8 +8,8 @@
     onMounted(() => {
         axios.get('/games.json')
             .then((response) => {
-                games.value = response.data.filter(g => g.played === true)
-                games.value = games.value.sort((a : String, b : String) => a.name.localeCompare(b.name))
+                games.value = response.data.filter((g : any) => g.played === true)
+                games.value = games.value.sort((a : any, b : any) => a.name.localeCompare(b.name))
             });
     });
 
