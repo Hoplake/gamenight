@@ -1,11 +1,13 @@
 [
     {
         "name": "Dice Miner",
+        "sortname": "Dice Miner",
         "image": "diceminer.png",
         "played": true,
         "minplayers": 1,
         "maxplayers": 4,
         "gametime": 30,
+        "description": "Dwarf heroes take turns drafting custom dice from a unique mountain component.",
         "bgg": "https://boardgamegeek.com/boardgame/310632/dice-miner",
         "tags": [
             { "name": "Vs."},
@@ -24,12 +26,14 @@
     },
     {
         "name": "Munchkin",
+        "sortname": "Munchkin",
         "image": "munchkin.png",
         "played": true,
         "minplayers": 1,
         "maxplayers": 5,
         "gametime": 60,
         "ourgametime": 120,
+        "description": "Attack and loot in this humorous, card-based dungeon crawler.",
         "bgg": "https://boardgamegeek.com/boardgame/1927/munchkin",
         "tags": [
             { "name": "Vs."},
@@ -53,16 +57,19 @@
     },
     {
         "name": "Dale of Merchants",
+        "sortname": "Dale of Merchants",
         "image": "daleofmerchants.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 4,
         "gametime": 30,
         "ourgametime": 60,
+        "description": "Learn new techniques, trade goods, and manage your stock to build the master stall!",
         "bgg": "https://boardgamegeek.com/boardgame/176165/dale-merchants",
         "tags": [
             { "name": "Vs."},
-            { "name": "Card Game"}
+            { "name": "Card Game"},
+            { "name": "Open Drafting"}
         ],
         "guidevideos": [
             {
@@ -77,11 +84,13 @@
     },
     {
         "name": "Dog Park",
+        "sortname": "Dog Park",
         "image": "dogpark.png",
         "played": true,
         "minplayers": 1,
         "maxplayers": 4,
         "gametime": 60,
+        "description": "Collect and walk all your favorite dogs in this beautiful, card-driven game.",
         "bgg": "https://boardgamegeek.com/boardgame/331401/dog-park",
         "tags": [
             { "name": "Vs."},
@@ -100,11 +109,13 @@
     },
     {
         "name": "Marvel Dice Throne",
+        "sortname": "Marvel Dice Throne",
         "image": "marveldicethrone.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 4,
         "gametime": 60,
+        "description": "Attack your opponents and activate abilities by rolling your hero's unique set of five dice.",
         "bgg": "https://boardgamegeek.com/boardgame/348406/marvel-dice-throne",
         "tags": [
             { "name": "Vs."},
@@ -124,11 +135,13 @@
     },
     {
         "name": "Pandemic: Reign of Cthulhu",
+        "sortname": "Pandemic: Reign of Cthulhu",
         "image": "reignofcthulhu.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 4,
         "gametime": 40,
+        "description": "Close portals, shut down cultists, and stave off insanity before an Old One awakens.",
         "bgg": "https://boardgamegeek.com/boardgame/192153/pandemic-reign-cthulhu",
         "tags": [
             { "name": "Co-op"},
@@ -147,11 +160,13 @@
     },
     {
         "name": "Marvel United",
+        "sortname": "Marvel United",
         "image": "marvelunited.png",
         "played": true,
         "minplayers": 1,
         "maxplayers": 4,
         "gametime": 40,
+        "description": "Cooperate as Marvel Heroes to stop the Villains' master plans!",
         "bgg": "https://boardgamegeek.com/boardgame/298047/marvel-united",
         "tags": [
             { "name": "Co-op" }
@@ -169,11 +184,13 @@
     },
     {
         "name": "Harry Potter: Hogwarts Battle",
+        "sortname": "Harry Potter: Hogwarts Battle",
         "image": "hogwartsbattle.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 4,
         "gametime": 60,
+        "description": "Defend iconic locations with your friends against You-Know-Who and his cronies.",
         "bgg": "https://boardgamegeek.com/boardgame/199042/harry-potter-hogwarts-battle",
         "tags": [
             { "name": "Co-op" },
@@ -194,11 +211,13 @@
     },
     {
         "name": "Regicide",
+        "sortname": "Regicide",
         "image": "regicide.png",
         "played": true,
         "minplayers": 1,
         "maxplayers": 4,
         "gametime": 30,
+        "description": "Work together as brave adventurers to defeat the corrupted monarchy.",
         "bgg": "https://boardgamegeek.com/boardgame/307002/regicide",
         "tags": [
             { "name": "Co-op" },
@@ -217,53 +236,66 @@
     },
     {
         "name": "PUSH",
+        "sortname": "PUSH",
         "image": "push.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 6,
         "gametime": 25,
+        "description": "Push your luck to collect the best stacks, but beware, a die roll can wipe you out.",
         "bgg": "https://boardgamegeek.com/boardgame/265256/push",
         "tags": [
             { "name": "Push Your Luck" },
-            { "name": "Card Game" }
+            { "name": "Card Game" },
+            { "name": "Vs."}
         ]
     },
     {
         "name": "Love Letter",
+        "sortname": "Love Letter",
         "image": "loveletter.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 4,
         "gametime": 20,
+        "description": "Can you get a letter to the princess or remove all your rivals? You win either way!",
         "bgg": "https://boardgamegeek.com/boardgame/129622/love-letter",
         "tags": [
             { "name": "Take That" },
             { "name": "Card Game" },
-            { "name": "Player Elimination"}
+            { "name": "Player Elimination"},
+            { "name": "Hand Management"},
+            { "name": "Vs."}
         ]
     },
     {
         "name": "King of New York",
+        "sortname": "King of New York",
         "image": "kingofnewyork.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 6,
         "gametime": 40,
+        "description": "Monsters vie for fame or dominance over New York in this dice-rolling game.",
         "bgg": "https://boardgamegeek.com/boardgame/160499/king-new-york",
         "tags": [
             { "name": "Dice" },
             { "name": "Player Elimination" },
             { "name": "Take That"},
-            { "name": "Push Your Luck"}
+            { "name": "Push Your Luck"},
+            { "name": "Vs."},
+            { "name": "Open Drafting"}
         ]
     },
     {
         "name": "Ghost Stories",
+        "sortname": "Ghost Stories",
         "image": "ghoststories.png",
         "played": true,
         "minplayers": 1,
         "maxplayers": 4,
         "gametime": 60,
+        "description": "Warrior monks work together to save the village from the evil Wu-Feng and his ghosts.",
         "bgg": "https://boardgamegeek.com/boardgame/37046/ghost-stories",
         "tags": [
             { "name": "Dice" },
@@ -272,113 +304,523 @@
     },
     {
         "name": "Bohnanza",
+        "sortname": "Bohnanza",
         "image": "bohnanza.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 7,
         "gametime": 45,
+        "description": "Farm beans, harvest crops and trade your way to fortune in this card game classic.",
         "bgg": "https://boardgamegeek.com/boardgame/11/bohnanza",
         "tags": [
             { "name": "Card Game" },
             { "name": "Set Collection" },
-            { "name": "Trading"}
+            { "name": "Trading"},
+            { "name": "Vs."}
         ]
     },
     {
         "name": "Res Arcana",
+        "sortname": "Res Arcana",
         "image": "resarcana.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 4,
         "gametime": 60,
+        "description": "Rival mages create artifacts, vying for places of power and ancient monuments.",
         "bgg": "https://boardgamegeek.com/boardgame/262712/res-arcana",
         "tags": [
             { "name": "Card Game" },
-            { "name": "Take That"}
+            { "name": "Take That"},
+            { "name": "Vs."},
+            { "name": "Open Drafting"}
         ]
     },
     {
         "name": "Strike",
+        "sortname": "Strike",
         "image": "strike.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 5,
         "gametime": 60,
+        "description": "Throw dice in an arena, in order to be the last gladiator standing.",
         "bgg": "https://boardgamegeek.com/boardgame/123570/strike",
         "tags": [
             { "name": "Dice" },
             { "name": "Push Your Luck"},
-            { "name":"Player Elimination"}
+            { "name":"Player Elimination"},
+            { "name": "Vs."}
         ]
     },
     {
         "name": "Star Wars: Jabba's Palace",
+        "sortname": "Star Wars: Jabba's Palace",
         "subtitle": "A Love Letter Game",
         "image": "jabba.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 6,
         "gametime": 20,
+        "description": "Danger and deception await you in the lair of the galaxy’s most notorious gangster.",
         "bgg": "https://boardgamegeek.com/boardgame/353470/star-wars-jabbas-palace-love-letter-game",
         "tags": [
             { "name": "Card Game" },
             { "name": "Take That"},
-            { "name": "Player Elimination"}
+            { "name": "Player Elimination"},
+            { "name": "Vs."},
+            { "name": "Hand Management"}
         ]
     },
     {
         "name": "Smash Up",
+        "sortname": "Smash Up",
         "image": "smashup.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 4,
         "gametime": 45,
+        "description": "Combine two awesome factions and battle opponents to see who rules.",
         "bgg": "https://boardgamegeek.com/boardgame/122522/smash",
         "tags": [
             { "name": "Card Game" },
-            { "name": "Take That"}
+            { "name": "Take That"},
+            { "name": "Vs."}
         ]
     },
     {
         "name": "Deep Sea Adventure",
+        "sortname": "Deep Sea Adventure",
         "image": "deepsea.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 6,
         "gametime": 30,
+        "description": "Swim over tiles and collect them, but don't drown!",
         "bgg": "https://boardgamegeek.com/boardgame/169654/deep-sea-adventure",
         "tags": [
             { "name": "Dice" },
             { "name": "Push Your Luck"},
-            { "name": "Filler"}
+            { "name": "Filler"},
+            { "name": "Vs."}
         ]
     },
     {
         "name": "Race for the Galaxy",
+        "sortname": "Race for the Galaxy",
         "image": "raceforthegalaxy.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 4,
         "gametime": 60,
+        "description": "Worlds await! Colonize, develop and conquer, taking advantage of others' choices.",
         "bgg": "https://boardgamegeek.com/boardgame/28143/race-galaxy",
         "tags": [
             { "name": "Card Game" },
             { "name": "Hand Management"},
-            { "name":"Set Collection"}
+            { "name":"Set Collection"},
+            { "name": "Vs."}
         ]
     },
     {
-        "name": "Mind",
+        "name": "The Mind",
+        "sortname": "Mind",
         "image": "mind.png",
         "played": true,
         "minplayers": 2,
         "maxplayers": 4,
         "gametime": 20,
-        "bgg": "https://boardgamegeek.com/boardgame/122522/smash",
+        "description": "Play your cards in ascending order without communicating. Timing is key!",
+        "bgg": "https://boardgamegeek.com/boardgame/244992/mind",
         "tags": [
             { "name": "Card Game" },
             { "name": "Co-op"},
             { "name": "Filler"}
+        ]
+    },
+    {
+        "name": "Gloom",
+        "sortname": "Gloom",
+        "image": "gloom.jpg",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 5,
+        "gametime": 60,
+        "bgg": "https://boardgamegeek.com/boardgame/12692/gloom",
+        "tags": [
+            { "name": "Card Game"},
+            { "name": "Take That"},
+            { "name": "Hand Management"},
+            { "name": "Vs."}
+        ]
+    },
+    {
+        "name": "Flamme Rouge",
+        "sortname": "Flamme Rouge",
+        "image": "flammerouge.jpg",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 45,
+        "bgg": "https://boardgamegeek.com/boardgame/199478/flamme-rouge",
+        "tags": [
+            { "name": "Card Game"},
+            { "name": "Race"},
+            { "name": "Hand Management"},
+            { "name": "Vs."}
+        ]
+    },
+    {
+        "name": "Red Rising",
+        "sortname": "Red Rising",
+        "image": "missing.png",
+        "played": true,
+        "minplayers": 1,
+        "maxplayers": 6,
+        "gametime": 60,
+        "bgg": "https://boardgamegeek.com/boardgame/329465/red-rising",
+        "tags": [
+            { "name": "Card Game"},
+            { "name": "Set Collection"},
+            { "name": "Hand Management"},
+            { "name": "Vs."},
+            { "name": "Take That"},
+            { "name": "Open Drafting"}
+        ]
+    },
+    {
+        "name": "Camel Up",
+        "sortname": "Camel Up",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 2,
+        "maxplayers": 8,
+        "gametime": 30,
+        "bgg": "https://boardgamegeek.com/boardgame/153938/camel",
+        "tags": [
+            { "name": "Betting"},
+            { "name": "Dice"},
+            { "name": "Race"},
+            { "name": "Vs."}
+        ]
+    },
+    {
+        "name": "The Lord of the Rings",
+        "sortname": "Lord of the Rings",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 1,
+        "maxplayers": 4,
+        "gametime": 70,
+        "bgg": "https://boardgamegeek.com/boardgame/823/the-lord-of-the-rings",
+        "tags": [
+            { "name": "Co-op"},
+            { "name": "Tile Placement"},
+            { "name": "Hand Management"}
+        ]
+    },
+    {
+        "name": "Love Letter",
+        "subtitle": "Princess Princess Ever After",
+        "sortname": "Love Letter: Princess Princess Ever After",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 2,
+        "maxplayers": 6,
+        "gametime": 20,
+        "bgg": "https://boardgamegeek.com/boardgame/339905/love-letter-princess-princess-ever-after",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Card Game"},
+            { "name": "Hand Management"},
+            { "name": "Take That"},
+            { "name": "Player Elimination"}
+        ]
+    },
+    {
+        "name": "Flash Point: Fire Rescue",
+        "sortname": "Flash Point: Fire Rescue",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 2,
+        "maxplayers": 6,
+        "gametime": 45,
+        "bgg": "https://boardgamegeek.com/boardgame/100901/flash-point-fire-rescue",
+        "tags": [
+            { "name": "Co-op"},
+            { "name": "Dice"}
+        ]
+    },
+    {
+        "name": "HeroQuest",
+        "sortname": "HeroQuest",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 2,
+        "maxplayers": 5,
+        "gametime": 90,
+        "bgg": "https://boardgamegeek.com/boardgame/699/heroquest",
+        "tags": [
+            { "name": "Campaign"},
+            { "name": "Dice"},
+            { "name": "Team-Based"}
+        ]
+    },
+    {
+        "name": "Jaws",
+        "sortname": "Jaws",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 60,
+        "bgg": "https://boardgamegeek.com/boardgame/272738/jaws",
+        "tags": [
+            { "name": "Player Elimination"},
+            { "name": "Hand Management"},
+            { "name": "Team-Based"}
+        ]
+    },
+    {
+        "name": "The Little Prince",
+        "subtitle": "Make Me a Planet",
+        "sortname": "Little Prince",
+        "image": "littleprince.jpg",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 5,
+        "gametime": 25,
+        "bgg": "https://boardgamegeek.com/boardgame/134453/little-prince-make-me-planet",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Set Collection"}
+        ]
+    },
+    {
+        "name": "Nova Luna",
+        "sortname": "Nova Luna",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 1,
+        "maxplayers": 4,
+        "gametime": 60,
+        "description": "Draft tiles to complete adjacency combos in this beautiful, abstract tableau builder.",
+        "bgg": "https://boardgamegeek.com/boardgame/284435/nova-luna",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Contracts"},
+            { "name": "Race"},
+            { "name": "Tile Placement"}
+        ]
+    },
+    {
+        "name": "Roll Player",
+        "sortname": "Roll Player",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 1,
+        "maxplayers": 4,
+        "gametime": 90,
+        "description": "Draft dice and purchase skills, traits and equipment to create the perfect RPG hero.",
+        "bgg": "https://boardgamegeek.com/boardgame/169426/roll-player",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Dice"},
+            { "name": "Set Collection"},
+            { "name": "Open Drafting"}
+        ]
+    },
+    {
+        "name": "Parks",
+        "sortname": "Parks",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 1,
+        "maxplayers": 5,
+        "gametime": 60,
+        "description": "Hike through National Parks tiles, collecting memories and admiring gorgeous scenery.",
+        "bgg": "https://boardgamegeek.com/boardgame/266524/parks",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Contracts"},
+            { "name": "Worker Placement"},
+            { "name": "Track Movement"}
+        ]
+    },
+    {
+        "name": "Tokaido",
+        "sortname": "Tokaido",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 2,
+        "maxplayers": 5,
+        "gametime": 45,
+        "description": "Travel the famed Tokaido road, visit hot springs, try new food, and paint landscapes.",
+        "bgg": "https://boardgamegeek.com/boardgame/123540/tokaido",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Set Collection"},
+            { "name": "Worker Placement"},
+            { "name": "Track Movement"}
+        ]
+    },
+    {
+        "name": "Verdant",
+        "sortname": "Verdant",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 1,
+        "maxplayers": 5,
+        "gametime": 60,
+        "description": "Collect and care for houseplants as you arrange the coziest home.",
+        "bgg": "https://boardgamegeek.com/boardgame/334065/verdant",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Set Collection"},
+            { "name": "Tile Placement"},
+            { "name": "Pattern Building"},
+            { "name": "Open Drafting"}
+        ]
+    },
+    {
+        "name": "Ticket to Ride",
+        "sortname": "Ticket to Ride",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 2,
+        "maxplayers": 5,
+        "gametime": 60,
+        "description": "Build your railroad across North America to connect cities and complete tickets.",
+        "bgg": "https://boardgamegeek.com/boardgame/9209/ticket-ride",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Set Collection"},
+            { "name": "Contracts"},
+            { "name": "Push Your Luck"},
+            { "name": "Open Drafting"}
+        ],
+        "expansions": [
+            { "name": "USA 1910" },
+            { "name": "Map Collection 4: Nederland" }
+        ]
+    },
+    {
+        "name": "Terraforming Mars",
+        "sortname": "Terraforming Mars",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 1,
+        "maxplayers": 5,
+        "gametime": 120,
+        "description": "Compete with rival CEOs to make Mars habitable and build your corporate empire.",
+        "bgg": "https://boardgamegeek.com/boardgame/167791/terraforming-mars",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Set Collection"},
+            { "name": "Contracts"},
+            { "name": "Take That"},
+            { "name": "Tile Placement"}
+        ]
+    },
+    {
+        "name": "Thanos Rising",
+        "sortname": "Thanos Rising",
+        "subtitle": "Avengers Infinity War",
+        "image": "thanos.jpg",
+        "played": false,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 90,
+        "description": "Assemble your heroes and defeat Thanos before SNAP!",
+        "bgg": "https://boardgamegeek.com/boardgame/248158/thanos-rising-avengers-infinity-war",
+        "tags": [
+            { "name": "Co-op"},
+            { "name": "Dice"},
+            { "name": "Open Drafting"}
+        ]
+    },
+    {
+        "name": "Agricola: Family Edition",
+        "sortname": "Agricola: Family Edition",
+        "image": "missing.png",
+        "played": false,
+        "minplayers": 1,
+        "maxplayers": 4,
+        "gametime": 45,
+        "description": "Build your farm and raise your family — a streamlined version of an all-time classic.",
+        "bgg": "https://boardgamegeek.com/boardgame/205418/agricola-family-edition",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Worker Placement"}
+        ]
+    },
+    {
+        "name": "Legends of Andor",
+        "sortname": "Legends of Andor",
+        "image": "andor.jpg",
+        "played": false,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 90,
+        "description": "A group of heroes carefully executes the defense of a besieged kingdom.",
+        "bgg": "https://boardgamegeek.com/boardgame/127398/legends-andor",
+        "tags": [
+            { "name": "Co-op"},
+            { "name": "Dice"},
+            { "name": "Campaign"}
+        ]
+    },
+    {
+        "name": "Sagrada",
+        "sortname": "Sagrada",
+        "image": "sagrada.jpg",
+        "played": true,
+        "minplayers": 2,
+        "maxplayers": 4,
+        "gametime": 90,
+        "description": "Craft the best stained-glass windows by carefully placing colorful transparent dice.",
+        "bgg": "https://boardgamegeek.com/boardgame/199561/sagrada",
+        "tags": [
+            { "name": "Vs."},
+            { "name": "Dice"},
+            { "name": "Open Drafting"},
+            { "name": "Contracts"},
+            { "name": "Set Collection"},
+            { "name": "Pattern Building"}
+        ]
+    },
+    {
+        "name": "Call to Adventure",
+        "sortname": "Call to Adventure",
+        "image": "calltoadventure.jpg",
+        "played": false,
+        "minplayers": 1,
+        "maxplayers": 4,
+        "gametime": 60,
+        "description": "Hero or Foe? You decide in this tile chucking, character building game.",
+        "bgg": "https://boardgamegeek.com/boardgame/199561/sagrada",
+        "tags": [
+            { "name": "Co-op"},
+            { "name": "Dice"},
+            { "name": "Storytelling"},
+            { "name": "Set Collection"}
+        ]
+    },
+    {
+        "name": "Disney Villainous",
+        "subtitle": "The Worst Takes it All",
+        "sortname": "Villainous",
+        "image": "villainous.jpg",
+        "played": false,
+        "minplayers": 2,
+        "maxplayers": 6,
+        "gametime": 90,
+        "description": "Rule your realm and rewrite your tale to be the best at being the Worst.",
+        "bgg": "https://boardgamegeek.com/boardgame/256382/disney-villainous-the-worst-takes-it-all",
+        "tags": [
+            { "name": "Hand Management"},
+            { "name": "Take That"},
+            { "name": "Card Game"}
         ]
     }
 ]

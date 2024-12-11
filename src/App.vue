@@ -15,7 +15,7 @@ import GameList from './views/GameList.vue'
       <v-list density="compact">
         <v-list-item prepend-icon="mdi-cards-playing" title="Played Games" to="/played"></v-list-item>
         <v-list-item prepend-icon="mdi-new-box" title="New Games" to="/new"></v-list-item>
-        <v-list-item prepend-icon="mdi-all-inclusive" title="All Games" to="/"></v-list-item>
+        <v-list-item prepend-icon="mdi-all-inclusive" title="All Games" to="/all"></v-list-item>
       </v-list>
     </v-navigation-drawer>
 

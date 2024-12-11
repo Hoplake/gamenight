@@ -1,27 +1,23 @@
 <script setup lang="ts">
-    import axios from 'axios'
-    import { onMounted,ref } from 'vue'
-    import GameCard from '../components/GameCard.vue'
+  import { onMounted,ref } from 'vue'
+  import GameCard from '../components/GameCard.vue'
+  import { gameDataStore } from '../stores/gamedata'
 
-    const games = ref([])
+  const games = ref([])
 
-    onMounted(() => {
-        axios.get('/games.json')
-            .then((response) => {
-                console.log(response.data)
-                games.value = response.data.sort((a : any, b : any) => a.name.localeCompare(b.name))
-            });
-    });
+  onMounted(() => {
+    games.value = gameDataStore().gamedata
+  });
 
-
+  console.log(games.value)
 </script>
 
 <template>
-    <v-container>
-        <v-row align="start" justify="center">
-            <v-col v-for="game in games" cols="auto">
-                <GameCard :game=game> </GameCard>
-            </v-col>
-        </v-row>
-    </v-container>
+  <v-container>
+    <v-row align="start" justify="center">
+      <v-col v-for="game in games" cols="auto">
+        <GameCard :game=game> </GameCard>
+      </v-col>
+    </v-row>
+  </v-container>
 </template>

@@ -12,6 +12,11 @@ const router = createRouter({
       component: GameList
     },
     {
+      path: '/all',
+      name: 'all',
+      component: GameList
+    },
+    {
       path: '/new',
       component: GameListNew
      },
